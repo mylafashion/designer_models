@@ -1,0 +1,32 @@
+[
+    {
+        "name": "t-shirt-male",
+        "displayName": "T-Shirt (Male)",
+        "gender": "male"
+    },
+    {
+        "name": "t-shirt-female",
+        "displayName": "T-Shirt (Female)",
+        "gender": "female"
+    },
+    {
+        "name": "shirt-male",
+        "displayName": "Shirt (Male)",
+        "gender": "male"
+    },
+    {
+        "name": "chudidhaar-female",
+        "displayName": "Chudidhaar",
+        "gender": "female"
+    },
+    {
+        "name": "lehanga-female",
+        "displayName": "Lehanga",
+        "gender": "female"
+    },
+    {
+        "name": "saree-female",
+        "displayName": "Saree",
+        "gender": "female"
+    }
+]
