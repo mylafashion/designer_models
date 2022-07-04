@@ -14,9 +14,13 @@
 		<pattern id="HandsBorders" patternContentUnits="objectBoundingBox" width="1" height="1">
 			<image href="https%3A%2F%2Fimg.glyphs.co%2Fimg%3Fq%3D85%26w%3D900%26src%3DaHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
 		</pattern>
+		<pattern id="BottomBorder" patternContentUnits="objectBoundingBox" width="1" height="1">
+			<image href="https%3A%2F%2Fimg.glyphs.co%2Fimg%3Fq%3D85%26w%3D900%26src%3DaHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
+		</pattern>
 	</defs>
-	<path id="FrontPath" fill="url(#Front)" d="m21 210h171v183h-171z"/>
-	<path id="BackPath" fill="url(#Back)"  d="m208 210h171v183h-171z"/>
-	<path id="HandsPath" fill="url(#Hands)" d="m208 392h247v74h-247z"/>
-	<path id="HandBordersPath" fill="url(#HandsBorders)" d="m187 466h289v30h-289z"/>
+	<path id="FrontPath" fill="url(#Front)" class="s0" d="m21 17h185v193h-185z"/>
+	<path id="BackPath"  fill="url(#Back)" class="s0" d="m208 210h171v183h-171z"/>
+	<path id="HandsPath" fill="url(#Hands)" class="s0" d="m208 392h247v74h-247z"/>
+	<path id="HandsBordersPath"  fill="url(#HandsBorders)" class="s0" d="m22 466h149v33h-149z"/>
+	<path id="BottomBorderPath" fill="url(#BottomBorder)" class="s0" d="m187 466h289v30h-289z"/>
 </svg>
