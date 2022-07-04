@@ -17,7 +17,7 @@
 		<pattern id="BottomBorder" patternContentUnits="objectBoundingBox" width="1" height="1">
 			<image href="https%3A%2F%2Fimg.glyphs.co%2Fimg%3Fq%3D85%26w%3D900%26src%3DaHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
 		</pattern>
-        <text id="FrontText" dominant-baseline="middle" text-anchor="middle"  fill="red" x="115" y="110" ></text>
+        <text id="FrontText" dominant-baseline="middle" text-anchor="middle"  fill="red" x="115" y="110" >Text</text>
         <text id="BackText" dominant-baseline="middle" text-anchor="middle"  fill="red" x="295" y="300" ></text>
         <image id="FrontImage" href="" transform="translate(-50,-50)" x="115" y="110" height="100" width="100" />
         <image id="BackImage" href="" transform="translate(-50,-50)" x="295" y="300" height="100" width="100" />
