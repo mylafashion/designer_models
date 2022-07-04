@@ -3,16 +3,16 @@
 	<title>T-Shirt Female</title>
 	<defs>
 		<pattern id="Front" patternContentUnits="objectBoundingBox" width="1" height="1">
-			<image href="https://img.glyphs.co/img?q=85&w=900&src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
+			<image href="https%3A%2F%2Fimg.glyphs.co%2Fimg%3Fq%3D85%26w%3D900%26src%3DaHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
 		</pattern>
 		<pattern id="Back" patternContentUnits="objectBoundingBox" width="1" height="1">
-			<image href="https://img.glyphs.co/img?q=85&w=900&src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
+			<image href="https%3A%2F%2Fimg.glyphs.co%2Fimg%3Fq%3D85%26w%3D900%26src%3DaHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
 		</pattern>
 		<pattern id="Hands" patternContentUnits="objectBoundingBox" width="1" height="1">
-			<image href="https://img.glyphs.co/img?q=85&w=900&src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
+			<image href="https%3A%2F%2Fimg.glyphs.co%2Fimg%3Fq%3D85%26w%3D900%26src%3DaHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
 		</pattern>
 		<pattern id="HandsBorders" patternContentUnits="objectBoundingBox" width="1" height="1">
-			<image href="https://img.glyphs.co/img?q=85&w=900&src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
+			<image href="https%3A%2F%2Fimg.glyphs.co%2Fimg%3Fq%3D85%26w%3D900%26src%3DaHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL2Jsb2ctaW1hZ2VzL0hvdy10by1QdXQtQW55dGhpbmctb24tYS1TaGlydC1UZXh0dXJlLUJhY2tncm91bmQvMDEuanBnP210aW1lPTIwMTgxMjA3MjA1NzAw" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
 		</pattern>
 	</defs>
 	<path id="FrontPath" fill="url(#Front)" d="m21 210h171v183h-171z"/>
