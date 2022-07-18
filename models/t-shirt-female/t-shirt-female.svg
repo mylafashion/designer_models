@@ -5,9 +5,11 @@
         <image width="233" height="512" id="img2" href="https://raw.githubusercontent.com/mylafashion/designer_models/main/models/t-shirt-female/assets/body_layer.png" />
         <pattern isEditable="true" id="Front" patternContentUnits="objectBoundingBox" width="1" height="1">
             <image href="https://raw.githubusercontent.com/mylafashion/designer_models/main/textures/white_texture.png" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
+            <rect width="100" height="100" fill="transparent" />
         </pattern>
         <pattern isEditable="true" id="Hands" patternContentUnits="objectBoundingBox" width="1" height="1">
             <image href="https://raw.githubusercontent.com/mylafashion/designer_models/main/textures/white_texture.png" preserveAspectRatio="xMidYMid slice" x="0" y="0" width="1" height="1" />
+            <rect width="100" height="100" fill="transparent" />
         </pattern>
     </defs>
     <path id="HandRightPath" fill="url(#Hands)" d="m162 216l4 4 3 4 4 5 3 5 3 5 3 8 2 3 1 5-1 6v8 6l1 4 2 5 2 5 3 3 3 3 2 3 2 3 2 3 2 4 1 6v7 5l-2 5-2 2-2 3-2 2-2 4-1 4-2 4-2 4-2 5-1 5-2 6-1 5-1 7-2 8-2 8-3 7-1 5v6l-1 5-1 5v5l-1 4-1 5-1 5-1 7v3 3l-5 1h-4l-2-2-1-5 2-6v-6l1-9 2-11 1-15v-10-20l2-14 1-13v-9l1-5 2-7v-5l1-4 1-11-1-11-2-12-1-11-1-11-2-8-2-9-1-10 1-7v-8z" />
