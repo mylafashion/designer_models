@@ -28,5 +28,15 @@
         "name": "saree-female",
         "displayName": "Saree",
         "gender": "female"
+    },
+    {
+        "name": "designer-wear-female",
+        "displayName": "Designer Wear",
+        "gender": "female"
+    },
+    {
+        "name": "designer-wear-male",
+        "displayName": "Designer Wear",
+        "gender": "male"
     }
 ]
